@@ -2,7 +2,7 @@
 <p>Two urban centers in the state of California have shown drastically different COVID-19 trajectories; in particular regarding testing, cases, deaths, and hospitalizations.</p>
 <p>For this project we did an exploratory analysis into some of these and other differences between the two counties, and attempted to draw some conclusions from the data we found.</p>
 <p>For my part, I have included the Jupyter notebooks used to: extract data using Python API requests, processed different types of data files into clean dataframes with Pandas, then generated some of the visualizations we used in our presentation, via Matplotlib.</p>
-<p>Post-project, I have kept up with COVID-19 cases and deaths in California counties on my website, https://stuhunter4.github.io/hunterStuff/index.html</p>
+<p>Post-project, I have kept up with COVID-19 cases and deaths in California counties on my website, https://stuhunter4.github.io/hunterStuff/county_data/county_data.html</p>
 <h3>Individual Notebooks Explained:</h3>
 <p><strong>Census_data.ipynb: </strong>Using a .csv created in County_size.ipynb, and python api requests from census.gov, created a .csv file of select census data on Los Angeles and San Francisco counties.  This .csv census file was created for use in later notebooks devoted to analysis and visualizations.</p>
 <p><strong>COVID_Summ_Data.ipynb: </strong>This notebook contains the calculations and visualizations related to COVID-19 cases and deaths for our two California counties.  Data was read from our Census_data.ipynb-created .csv file and another .csv from California Open Data Portal for COVID-19 cases and deaths.  There are charts for daily COVID-19 cases and deaths, and per capita cases/deaths over two-week periods, in this notebook.</p>
