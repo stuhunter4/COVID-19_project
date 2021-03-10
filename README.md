@@ -23,7 +23,7 @@
 <img src="https://github.com/stuhunter4/COVID-19_Project/blob/main/resized/LASF_top10LA_employees.jpg" alt="topEmployees">
 <p><strong>Employment_Data.ipynb: </strong>Details about each respective county's employment profile was queried from census.gov through python api requests.  This information was organized into several bar graphs that examine the relative proportion of employees working in front line occupations during the pandemic.</p>
 <hr>
-<img src="https://github.com/stuhunter4/COVID-19_Project/blob/main/resized/Household_BarGraphs.jpg" alt="houseGraphs">
+<img src="https://github.com/stuhunter4/COVID-19_Project/blob/main/resized/Households_BarGraphs.jpg" alt="houseGraphs">
 <p><strong>Household_Census_Data.ipynb: </strong>In search of additional census.gov information that may help our analysis, a number of details relating to households was queried and displayed as bar graphs.  This information was ultimately supplemental and unused in our final presentation.</p>
 <hr>
 <h3>The 'NEW' notebooks were created after the project presentation, to expand the analysis to the differences between the metropolitan statistical areas of Los Angeles-LongBeach-Anaheim and San Francisco-Oakland-Berkeley.</h3>
